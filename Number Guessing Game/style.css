@@ -1,0 +1,35 @@
+    h1 {
+    margin-top: 25px;
+    text-transform: uppercase;
+    margin-left: 180px;
+    font-size: 32px;
+    }
+
+    p {
+    font-size: 25px;
+    }
+    .form .guessSubmit {
+    border-radius: 5px;
+    color: blue;
+    letter-spacing: 2px;
+    padding: 7px;
+    text-transform: uppercase;
+    }
+    .guessSubmit {
+    transition-duration: 1s;
+    }
+    .guessSubmit:hover {
+    background-color: #a52020;
+    color: white;
+    cursor: pointer;
+    }
+    .form .guessField {
+    border: 2px solid;
+    border-radius: 6px;
+    padding: 5px;
+    width: 98%;
+    }
+    input {
+    width: 100%;
+    margin-top: 15px;
+    }
